@@ -1,4 +1,4 @@
-set password "kaggle_vNC9987"
+set password "lollipop"
 set expect_path "/usr/bin/expect"  ;# Replace with the actual path to the 'expect' command
 
 spawn vncserver
